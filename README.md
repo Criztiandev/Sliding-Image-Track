@@ -1,1 +1,6 @@
-# Image-Slider
+# Sliding Image Track
+
+## Technology
+  - ReactJS
+
+
